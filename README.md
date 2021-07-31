@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 you can find me by : [https://www.linkedin.com/in/el-aamiri-essadeq-47b950171/]
 
 ![Essadeq's github stats](https://github-readme-stats.vercel.app/api?username=edssadeq)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edssadeq)](https://github.com/edssadeq/github-readme-stats)
+
