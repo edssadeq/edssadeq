@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 💬 I'm Essadeq EL AAMIRI
 ### ⚡ Computer engineering student
-### 😄 Big data and cloud comuting
+### 😄 Big data and cloud computing
 <!--
 **edssadeq/edssadeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
