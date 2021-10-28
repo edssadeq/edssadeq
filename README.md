@@ -14,5 +14,5 @@
 </p>
 
 ![Essadeq's github stats](https://github-readme-stats.vercel.app/api?username=essadeq-elaamiri)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edssadeq)](https://github.com/essadeq-elaamiri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essadeq-elaamiri)](https://github.com/essadeq-elaamiri/github-readme-stats)
 
