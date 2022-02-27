@@ -1,9 +1,6 @@
 # Hi there 👋
-## 💬 I'm Essadeq EL AAMIRI
-### ⚡ Computer engineering student
-### 😄 Big data and cloud computing
-
-### You can find me online:
+### 💬 I'm Essadeq EL AAMIRI, Computer engineering student at ENSET-M , Future data engineer and a web developer.
+#### Find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/elaamiri-essadeq/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
