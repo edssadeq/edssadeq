@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![Brief](https://profile-summary-for-github.com/user/essadeq-elaamiri)
+[My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
 
 ![Essadeq's github stats](https://github-readme-stats.vercel.app/api?username=essadeq-elaamiri)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essadeq-elaamiri)](https://github.com/essadeq-elaamiri/github-readme-stats)
