@@ -21,7 +21,7 @@
   "name": "ELAAMIRI Essadeq",
   "called": "RED EYE",
   "age": 23,
-  "studies": "Computer science ingineering, Big data and Cloud computing",
+  "studies": "Computer science engineering, Big data and Cloud computing",
   "profile": "Data engineer, Software engineer",
   "speak": [
     "Arabic",
