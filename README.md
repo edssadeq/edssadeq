@@ -1,3 +1,6 @@
+![bg](https://pbs.twimg.com/profile_banners/1139340064847269888/1646087214/1500x500)
+
+
 # Hi there 👋
 ### 💬 I'm Essadeq EL AAMIRI, Computer engineering student at ENSET-M , Future data engineer and a web developer.
 #### Find me online:
