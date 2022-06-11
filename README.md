@@ -2,7 +2,7 @@
 
 
 # Hi there 👋
-### 💬 I'm Essadeq EL AAMIRI, Computer engineering student at ENSET-M , Future data engineer and a web developer.
+### 💬 I'm Essadeq EL AAMIRI, Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future data engineer and a web developer.
 #### Find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/elaamiri-essadeq/">
@@ -18,7 +18,7 @@
 
 [My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
 
-###### Me as JSON object
+###### Me as a JSON object
 ```json
 {
   "name": "ELAAMIRI Essadeq",
