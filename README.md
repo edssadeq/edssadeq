@@ -2,7 +2,7 @@
 
 
 # Hi there 👋
-### 💬 I'm Essadeq EL AAMIRI, Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future data engineer and a web developer.
+### 💬 I'm Essadeq EL AAMIRI, Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer.
 #### Find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/elaamiri-essadeq/">
