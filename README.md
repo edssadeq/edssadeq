@@ -2,7 +2,7 @@
 
 
 # Hi there 👋
-### 💬 I'm Essadeq EL AAMIRI, Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer.
+### 💬 I'm Essadeq EL AAMIRI, Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer, Interested in Data science and big data.
 #### Find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/elaamiri-essadeq/">
@@ -25,7 +25,8 @@
   "called": "RED EYE",
   "age": 23,
   "studies": "Computer science engineering, Big data and Cloud computing",
-  "profile": "Data engineer, Software engineer",
+  "profile": "Software engineer, Data engineer",
+  "interests": ["Software dev", "Data science", "Big data"],
   "speak": [
     "Arabic",
     "English",
