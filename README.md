@@ -2,7 +2,7 @@
 
 
 # Hi there 👋 
-### 💬 I'm (Essadeq EL AAMIRI)[https://linktr.ee/elaamiri], Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer, Interested in Data science and big data.
+### 💬 I'm [Essadeq EL AAMIRI](https://linktr.ee/elaamiri), Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer, Interested in Data science and big data.
 #### Find me online:
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/elaamiri-essadeq/">
@@ -17,7 +17,7 @@
 
 
 [My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
-(Essadeq EL AAMIRI)[https://linktr.ee/elaamiri]
+[Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
 
 ###### Me as a JSON object
 ```json
