@@ -17,6 +17,8 @@
 
 
 [My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
+
+
 [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
 
 ###### Me as a JSON object
@@ -45,4 +47,5 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=essadeq-elaamiri" alt="essadeq-elaamiri" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essadeq-elaamiri" alt="essadeq-elaamiri" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=essadeq-elaamiri" alt="essadeq-elaamiri" /> |
 |---|---|---|
 
+<img align="center" src="https://raw.githubusercontent.com/3imed-jaberi/3imed-jaberi/master/assets/code.gif" alt="essadeq-elaamiri" />
 
