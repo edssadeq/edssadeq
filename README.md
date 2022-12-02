@@ -17,11 +17,11 @@
 ![](https://komarev.com/ghpvc/?username=essadeq-elaamiri)
 
 
-[My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
+- [My profile summary ](https://profile-summary-for-github.com/user/essadeq-elaamiri)
 
 
-LINKS : [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
-CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )
+- LINKS : [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
+- CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )
 
 ###### Me as a JSON object
 ```json
