@@ -21,7 +21,8 @@
 
 
 - LINKS : [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
-- CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )
+
+<!-- - CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )-->
 
 ###### Me as a JSON object
 ```json
