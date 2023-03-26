@@ -23,7 +23,11 @@
 - LINKS : [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
 
 
-<iframe src="https://profile-summary-for-github.com/user/essadeq-elaamiri" title="profile-summary-for-github"></iframe>
+
+
+
+<!--<iframe src="https://profile-summary-for-github.com/user/essadeq-elaamiri" title="profile-summary-for-github"></iframe>-->
+
 
 
 <!-- - CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )-->
