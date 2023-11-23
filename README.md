@@ -1,4 +1,4 @@
-![bg](https://pbs.twimg.com/profile_banners/1139340064847269888/1646087214/1500x500)
+![bg](https://media.licdn.com/dms/image/C4E16AQHG9xrgh7KfWQ/profile-displaybackgroundimage-shrink_350_1400/0/1643736203980?e=1706140800&v=beta&t=4chkl07K-nUO2LSNDZjfQiLvKGjD5E3wbzDl6eT8ygQ)
 
 
 # Hi there 👋 
