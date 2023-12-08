@@ -23,38 +23,6 @@
 - LINKS : [Essadeq EL AAMIRI](https://linktr.ee/elaamiri)
 
 
-
-
-
-<!--<iframe src="https://profile-summary-for-github.com/user/essadeq-elaamiri" title="profile-summary-for-github"></iframe>-->
-
-
-
-<!-- - CVs: [Shared_CVs](https://drive.google.com/drive/folders/1hpDDGjisH6PxuHNKIQucJhwYczsojkv9?usp=sharing )-->
-
-###### Me as a JSON object
-```json
-{
-  "name": "ELAAMIRI Essadeq",
-  "called": "RED EYE",
-  "age": 23,
-  "studies": "Computer science engineering, Big data and Cloud computing",
-  "profile": "Software engineer, Data engineer",
-  "interests": ["Software dev", "Data science", "Big data"],
-  "speak": [
-    "Arabic",
-    "English",
-    "French"
-  ],
-  "All":"https://linktr.ee/elaamiri"
-  "github": "https://github.com/essadeq-elaamiri",
-  "linkedIn": "https://www.linkedin.com/in/elaamiri-essadeq/",
-  "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHywiT644dV_A/profile-displayphoto-shrink_200_200/0/1645305328630?e=1655942400&v=beta&t=gtUO_wrnMzFIMSTNi-WNcu6riDHm5ItRTBTbsAJ0nNE"
-}
-```
-
-
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=essadeq-elaamiri" alt="essadeq-elaamiri" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essadeq-elaamiri" alt="essadeq-elaamiri" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=essadeq-elaamiri" alt="essadeq-elaamiri" /> |
 |---|---|---|
 
