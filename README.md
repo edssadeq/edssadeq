@@ -1,5 +1,3 @@
-![bg](https://media.licdn.com/dms/image/C4E16AQHG9xrgh7KfWQ/profile-displaybackgroundimage-shrink_350_1400/0/1643736203980?e=1720051200&v=beta&t=7UvEks-MVI9iWHUZ6pb67A2JxSG8PGobdJmAXvskcB0)
-
 # Hi there 👋 
 ### 💬 I'm [Essadeq EL AAMIRI](https://linktr.ee/elaamiri), Moroccan, computer engineering student at [ENSET-M](https://www.enset-media.ac.ma/) , Future software engineer, Interested in Data science and big data.
 
